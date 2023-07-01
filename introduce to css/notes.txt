@@ -1,0 +1,5 @@
+CSS(Cascading Style Sheets)
+Mirip dengan HTML yang merupakan markup league
+
+Why we need css?
+we need css for styling website, because styling website using html is not effective
