@@ -1,0 +1,17 @@
+html {
+  background-color: black;
+  color: white;
+}
+div {
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+h1 {
+  font-family: "Caveat", cursive;
+}
+.motivation-img {
+  border: 5px solid white;
+  width: 100%;
+}
